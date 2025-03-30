@@ -20,10 +20,11 @@
 ---
 
 ### ⚙️ **Backend & Base de Datos**
-<p align="center" style="display: flex align-items: center;">
-  <img src="nodejs-icon-logo-png-transparent.png" height="70" width="70" alt="Node.js" style="border-radius: 12px box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1) margin: 10px;"/>
-  <img src="MySQL-Logo.square.png" height="110" width="110" alt="MySQL" style="border-radius: 12px box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1) margin: 10px;"/>
+<p align="center" style="line-height: 0;">
+  <img src="nodejs-icon-logo-png-transparent.png" height="70" width="70" alt="Node.js" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px; vertical-align: middle;"/>
+  <img src="MySQL-Logo.square.png" height="110" width="110" alt="MySQL" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px; vertical-align: middle;"/>
 </p>
+
 
 
 
