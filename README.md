@@ -14,7 +14,7 @@
   <img src="css3-icon-28.jpg" height="90" width="70" alt="CSS3" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;"/>
   <img src="logo-javascript-icon-512.png" height="70" width="70" alt="JavaScript" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;"/>
   <img src="typescript-4096.png" height="70" width="70" alt="TypeScript" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;"/>
-  <img src="reactjs-icon-1024x911-5s7tva58.png" height="50" width="70" alt="React" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;"/>
+  <img src="reactjs-icon-1024x911-5s7tva58.png" height="65" width="75" alt="React" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;"/>
 </p>
 
 ---
