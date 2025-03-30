@@ -8,28 +8,31 @@
 
 ## 🛠️ Tecnologías y Herramientas:
 
-### 🌐 **Frontend:**
+### 🌐 **Frontend**
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="70" alt="HTML5" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70" alt="CSS3" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" alt="JavaScript" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="70" alt="TypeScript" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="70" alt="React" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;"/>
+  <img src="logo-html-5-2048.png" height="70" alt="HTML5" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;"/>
+  <img src="css3-icon-28.jpg" height="70" alt="CSS3" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;"/>
+  <img src="logo-javascript-icon-512.png" height="70" alt="JavaScript" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;"/>
+  <img src="typescript-4096.png" height="70" alt="TypeScript" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;"/>
+  <img src="reactjs-icon-1024x911-5s7tva58.png" height="70" alt="React" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;"/>
 </p>
 
 ---
 
-### ⚙️ **Backend & Base de Datos:**
+### ⚙️ **Backend & Base de Datos**
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="70" alt="Node.js" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;"/>
+  <img src="nodejs-icon-logo-png-transparent.png" height="70" alt="Node.js" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;"/>
 </p>
 
 <p align="center">
- <img src="[https://upload.wikimedia.org/wikipedia/commons/8/89/MySQL_logo_2015.svg](https://github.com/username/repo/blob/main/MySQL-Logo.square.png)" height="70" alt="MySQL" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;"/></p>
+  <img src="MySQL-Logo.square.png" height="70" alt="MySQL" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;"/>
+  <br>
+  <strong>MySQL</strong>
+</p>
 
 ---
 
-### 🛠️ **Herramientas & Otros:**
+### 🛠️ **Herramientas & Otros**
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70" alt="Git" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;"/>
 </p>
