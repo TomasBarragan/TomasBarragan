@@ -5,13 +5,30 @@
 🚀 Buscando mejorar cada día y crear proyectos de valor  
 
 ## 🛠️ Tecnologías y Herramientas:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="60" alt="HTML5" style="animation: bounce 2s infinite;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="60" alt="CSS3" style="animation: bounce 2s infinite;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" style="animation: bounce 2s infinite;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="60" alt="TypeScript" style="animation: bounce 2s infinite;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="60" alt="React" style="animation: bounce 2s infinite;"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="60" alt="HTML5"/>
+      <br><strong>HTML5</strong>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="60" alt="CSS3"/>
+      <br><strong>CSS3</strong>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="60" alt="JavaScript"/>
+      <br><strong>JavaScript</strong>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="60" alt="TypeScript"/>
+      <br><strong>TypeScript</strong>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="60" alt="React"/>
+      <br><strong>React</strong>
+    </td>
+  </tr>
+</table>
 
 ## 📈 GitHub Stats:
 <p align="center">
