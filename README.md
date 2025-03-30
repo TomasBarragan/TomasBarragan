@@ -25,6 +25,7 @@
   <img src="MySQL-Logo.square.png" height="110" width="110" alt="MySQL" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px; display: block;"/>
 </p>
 
+
 ---
 
 ### 🛠️ **Herramientas & Otros**
