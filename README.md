@@ -16,8 +16,8 @@
 
 ### ⚙️ Backend & Base de Datos
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="70" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/mysql.svg" height="70" alt="MySQL"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/NodeJS.png" height="70" alt="Node.js"/>
+  <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" height="70" alt="MySQL"/>
 </p>
 
 ### 🛠️ Herramientas & Otros
