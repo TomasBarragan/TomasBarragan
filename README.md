@@ -22,7 +22,7 @@
 ### ⚙️ **Backend & Base de Datos**
 <p align="center">
   <img src="nodejs-icon-logo-png-transparent.png" height="70" width="70" alt="Node.js" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px; display: block;"/>
-  <img src="MySQL-Logo.square.png" height="90" width="90" alt="MySQL" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px; display: block;"/>
+  <img src="MySQL-Logo.square.png" height="110" width="110" alt="MySQL" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px; display: block;"/>
 </p>
 
 ---
