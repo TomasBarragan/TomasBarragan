@@ -10,31 +10,29 @@
 
 ### 🌐 **Frontend**
 <p align="center">
-  <img src="logo-html-5-2048.png" height="70" alt="HTML5" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;"/>
-  <img src="css3-icon-28.jpg" height="70" alt="CSS3" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;"/>
-  <img src="logo-javascript-icon-512.png" height="70" alt="JavaScript" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;"/>
-  <img src="typescript-4096.png" height="70" alt="TypeScript" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;"/>
-  <img src="reactjs-icon-1024x911-5s7tva58.png" height="70" alt="React" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;"/>
+  <img src="logo-html-5-2048.png" height="70" width="70" alt="HTML5" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;"/>
+  <img src="css3-icon-28.jpg" height="70" width="70" alt="CSS3" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;"/>
+  <img src="logo-javascript-icon-512.png" height="70" width="70" alt="JavaScript" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;"/>
+  <img src="typescript-4096.png" height="70" width="70" alt="TypeScript" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;"/>
+  <img src="reactjs-icon-1024x911-5s7tva58.png" height="70" width="70" alt="React" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;"/>
 </p>
 
 ---
 
 ### ⚙️ **Backend & Base de Datos**
 <p align="center">
-  <img src="nodejs-icon-logo-png-transparent.png" height="70" alt="Node.js" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;"/>
+  <img src="nodejs-icon-logo-png-transparent.png" height="70" width="70" alt="Node.js" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;"/>
 </p>
 
 <p align="center">
-  <img src="MySQL-Logo.square.png" height="70" alt="MySQL" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;"/>
-  <br>
-  <strong>MySQL</strong>
+  <img src="MySQL-Logo.square.png" height="70" width="70" alt="MySQL" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;"/>
 </p>
 
 ---
 
 ### 🛠️ **Herramientas & Otros**
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70" alt="Git" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70" width="70" alt="Git" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;"/>
 </p>
 
 ---
@@ -43,4 +41,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TomasBarragan&show_icons=true&theme=radical" alt="GitHub Stats" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
 </p>
-
