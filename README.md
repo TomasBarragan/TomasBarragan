@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
- <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/MySQL_logo_2015.svg" height="70" alt="MySQL" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;"/></p>
+ <img src="[https://upload.wikimedia.org/wikipedia/commons/8/89/MySQL_logo_2015.svg](https://github.com/username/repo/blob/main/MySQL-Logo.square.png)" height="70" alt="MySQL" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;"/></p>
 
 ---
 
